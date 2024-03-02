@@ -1,7 +1,10 @@
-# How to make and publish articles
+# Zenn
+
+## How to make and publish articles
+
 - `npx zenn new:article`
 - `npx zenn preview`
-- https://getemoji.com/
+- [emoji](https://getemoji.com)
 - `published: true`
 - `git add .`
 - `git commit -m "~"`
@@ -9,10 +12,15 @@
 
 [📘 Learn more](https://zenn.dev/zenn/articles/zenn-cli-guide)
 
-# Template of the article
+## Template of the article
+
 ```md
-# ゴール
-# 書いてあること
-# 書いてないこと
-# 参考文献
+⚡️: 他の記事に書いてなさそうだったこと
+
+## ✅ この記事の目的
+
+## ❌ この記事に書いてないこと
+
+## ℹ️ 参考
+
 ```
